@@ -18,7 +18,7 @@
 	100% {opacity: 0;}
 }
 
-.fadeOut {
+.fade-out {
 	-webkit-animation-name: fade-out;
 	-moz-animation-name: fade-out;
 	-o-animation-name: fade-out;
